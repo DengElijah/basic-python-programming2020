@@ -1,0 +1,10 @@
+dict1={1:"apple", 2:"orange", 3: "banana", 4: "kiwi"}
+print(dict1)
+print(dict1[2])
+print(dict1.pop(4))
+print(dict1.__getitem__(3))
+print(dict1.values())
+dict1.update({2:"watermelon"})
+print(dict1)
+dict1.update({5:"sea foods"})
+print(dict1)
