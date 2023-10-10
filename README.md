@@ -1,2 +1,2 @@
-# basicwebdev2020
-basic HTML/CSS work
+# basicpythonprogramming2020
+basic python
